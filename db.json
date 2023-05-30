@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 2000,
+      "img": "https://picsum.photos/200/200"
+    },
+    {
+      "id": 3,
+      "name": "Product 3 update",
+      "price": 3000,
+      "img": "https://picsum.photos/200/200"
+    },
+    {
+      "name": "test",
+      "price": "adad",
+      "id": 4
+    },
+    {
+      "name": "1313",
+      "price": 13131,
+      "id": 5
+    }
+  ],
+  "categorys": [
+    {
+      "id": 1,
+      "name": "Category 1",
+      "img": "https://picsum.photos/200/200"
+    },
+    {
+      "id": 2,
+      "name": "Category 2",
+      "img": "https://picsum.photos/200/200"
+    },
+    {
+      "name": "test",
+      "id": 3
+    }
+  ]
+}

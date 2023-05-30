@@ -1,0 +1,7 @@
+<form action="" (ngSubmit)="oneHandSubmit()" (formGroup)="productForm" >
+<input type="text"placeholder="Name" fromControlName ="name" >
+<br>
+<input type="number"placeholder="Price" formControlName ="price">
+<br>
+<button type="submit" [disabled]="!productForm.valid">Add</button>
+</form>
